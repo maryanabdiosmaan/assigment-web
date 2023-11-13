@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.farms {
+    margin-top: 3em;
+    display: flex;
+    font-size: 10px;
+}
+.farms ul{
+    display: flex;
+    font-size: 17px;
+    list-style: none;
+}
+.farms ul li{
+    padding: 16px;
+    margin-left: 4em;
+}
+.btnlog{
+    font-size: 20px;
+    border-radius: 5px;
+    color:white;
+    background-color:rgb(6, 78, 6);
+    padding: 12px 30px;
+    border: none;
+    margin-left: 10em;
+}
+.btnsign{
+    font-size: 20px;
+    color:rgb(6, 78, 6);
+    background-color:none;
+    padding: 12px 30px;
+    border: green;
+    margin-left: 2em;
+}
+.right-side p{
+    margin-bottom: 20px;
+}
+.right-side h3 {
+    width: 260px;
+    padding: 12px;
+    font-size: 21px;
+    margin-top: 30px;
+}
+.btnget {
+    font-size: 16px;
+    color:white;
+    background-color:rgb(0, 95, 99);
+    padding: 10px;
+    border: none;
+    margin-right: 10em;
+}
+.input-parent img{
+    height: 200px;
+    border-radius: 10px;
+  margin-left: 40em;
+  margin-bottom: 60em;
+}
